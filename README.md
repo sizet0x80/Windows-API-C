@@ -6,7 +6,8 @@ System Information:
 
 System information is a small program I wrote that utilizes the Windows API to display static and dynamic system information. 
 
-   static:   
+   static:  
+   
             Windows version info
             
             Computer name
@@ -27,6 +28,7 @@ System information is a small program I wrote that utilizes the Windows API to d
             
             
    Dynamic:
+   
             Number of Processes currently "running"
             
             Number of Threads currently running
