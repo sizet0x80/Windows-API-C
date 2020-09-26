@@ -14,7 +14,7 @@ System information is a small program I wrote that utilizes the Windows API to d
             
             Current user (whoami)
             
-            System Directory
+            System Directory path
             
             Logical processor count
             
