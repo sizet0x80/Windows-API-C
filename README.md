@@ -2,7 +2,7 @@
 Windows API stuff I've written in C/C++
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-System Information:
+System Information.
 
 System information is a small program I wrote that utilizes the Windows API to display static and dynamic system information. 
 
