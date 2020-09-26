@@ -6,7 +6,7 @@ System Information:
 
 System information is a small program I wrote that utilizes the Windows API to display static and dynamic system information. 
 
-   static:  
+   Static Information:  
    
             Windows version info
             
@@ -27,7 +27,7 @@ System information is a small program I wrote that utilizes the Windows API to d
             Maximum process address
             
             
-   Dynamic:
+   Dynamic Information:
    
             Number of Processes currently "running"
             
