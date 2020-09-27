@@ -2,7 +2,7 @@
 Windows API stuff I've written in C/C++
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Enumerate Processes - Lists PID, threads, session, process name, and the username that the process belongs to. (static, not dynamic)
+Enumerate Processes - Lists all PID, threads, session, process names, and the username that the process belongs to. (static, not dynamic)
 
 Run in command prompt, if you're running as administrator you will see special users, as this uses EnableDebugPrivilege.
 
