@@ -4,12 +4,11 @@ Windows API stuff I've written in C/C++
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Enumerate Processes - Lists all PID, threads, session, process names, and the username that the process belongs to. (static, not dynamic)
 
-Run in command prompt, if you're running as administrator you will see special users, as this uses EnableDebugPrivilege.
+Execute from command prompt, if you're running as administrator you will see special users, as this uses EnableDebugPrivilege.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-System Information.
 
-System information is a small program I wrote that utilizes the Windows API to display static and dynamic system information. 
+System information is a small program I wrote that utilizes the Windows API to display static and dynamic system information. Execute from command prompt.
 
    Static Information:  
    
