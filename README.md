@@ -1,6 +1,10 @@
 # Windows-API-C
 Windows API stuff I've written in C/C++
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Enumerate Processes - Lists PID, threads, session, process name, and the username that the process belongs to.
+
+Run in command prompt, if you're running as administrator you will see special users, as this uses EnableDebugPrivilege.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 System Information.
 
@@ -49,12 +53,6 @@ System information is a small program I wrote that utilizes the Windows API to d
             
             Kernel pool total
             
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Enumerate Processes - Lists PID, threads, session, process name, and the username that the process belongs to.
-
-Run in command prompt, if you're running as administrator you will see special users, as this uses EnableDebugPrivilege.
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                             
                                                                                   
