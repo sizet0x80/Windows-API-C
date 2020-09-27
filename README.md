@@ -1,5 +1,5 @@
 # Windows-API-C
-Windows API stuff I've written in C/C++
+Windows API stuff I've written in C/C++ aimed at the information security community.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Enumerate Processes - Lists all PID, threads, session, process names, and the username that the process belongs to. (static, not dynamic)
