@@ -50,5 +50,10 @@ System information is a small program I wrote that utilizes the Windows API to d
             Kernel pool total
             
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+List processes - small program that lists all running processes, threads, PID, parent PID. 
+https://docs.microsoft.com/en-us/windows/win32/toolhelp/traversing-the-module-list
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                             
                                                                                   
