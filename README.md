@@ -51,8 +51,9 @@ System information is a small program I wrote that utilizes the Windows API to d
             
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-List processes - small program that lists all running processes, threads, PID, parent PID. 
-https://docs.microsoft.com/en-us/windows/win32/toolhelp/traversing-the-module-list
+Enumerate Processes - Lists PID, threads, session, process name, and the username that the process belongs to.
+
+Run in command prompt, if you're running as administrator you will see special users, as this uses EnableDebugPrivilege.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                             
