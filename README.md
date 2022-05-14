@@ -57,7 +57,7 @@ System information is a small program I wrote that utilizes the Windows API to d
                                                                             
    Check Token Privileges
    
-   Takes the name of a window and gets a handle to the process' access token, and then checks to see if x token privilege is enabled. (SEDebugPrivilege unless manually changed)
+   Takes the name of a window and gets a handle to the process' access token, and then checks to see if x token privilege is enabled. (SEDebugPrivilege unless manually changed in the header file)
    
    ![image](https://user-images.githubusercontent.com/62064338/168439796-046e9d02-2094-4a39-b568-2171e09dfef1.png)
    
