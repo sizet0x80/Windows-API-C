@@ -55,4 +55,12 @@ System information is a small program I wrote that utilizes the Windows API to d
             
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                             
-                                                                                  
+   Check Token Privileges
+   
+   Takes the name of a window and gets a handle to the process' access token, and then checks to see if x token privilege is enabled. (SEDebugPrivilege unless manually changed)
+   
+   ![image](https://user-images.githubusercontent.com/62064338/168439796-046e9d02-2094-4a39-b568-2171e09dfef1.png)
+   
+   Compile with ``g++ Check-Token-Privs.cpp -o whatever``
+
+   In most cases you will need to be in an elevated command prompt (admin) to check things like Task Manager. Most 3rd party apps should be fine without this.
